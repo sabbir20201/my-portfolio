@@ -1,7 +1,12 @@
+import FileSaver from "file-saver";
 
 const AboutMe = () => {
+    const handleDownloadResume = ()=>{
+        const resumePath = '../../../public/resume.pdf'
+        FileSaver.saveAs(resumePath, 'sabbir_ahmad_resume.pdf')
+    }
     return (
-        <div>
+        <div className="lg:my-10">
 
             <div className="hero h-[600px] ">
                 <div>
@@ -27,7 +32,7 @@ const AboutMe = () => {
                                </div>
                                <h1>BA Hons in Islamic Studies</h1>
                                <p>Govt. Titumir College, Dhaka</p>
-                            <button className="btn bg-sky-400 mt-4"> Download CV</button>
+                            <button onClick={handleDownloadResume} className="btn bg-sky-400 mt-4"> Download Resume</button>
                         </div>
                     </div>
                 </div>

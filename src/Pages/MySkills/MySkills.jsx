@@ -1,7 +1,7 @@
 
 const MySkills = () => {
     return (
-        <div className="my-12">
+        <div className="my-48 md:my-72 lg:my-12">
 
             <h1 className="text-center font-bold text-4xl my-7">My<span className="text-sky-400"> Skills </span> </h1>
             <div className="grid grid-flow-row gap-4 justify-center">
