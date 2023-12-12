@@ -2,7 +2,7 @@ import FileSaver from "file-saver";
 
 const AboutMe = () => {
     const handleDownloadResume = ()=>{
-        const resumePath = '../../../public/resume.pdf'
+        const resumePath = '../../../public/resume (1).pdf'
         FileSaver.saveAs(resumePath, 'sabbir_ahmad_resume.pdf')
     }
     return (
