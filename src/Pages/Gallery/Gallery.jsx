@@ -30,26 +30,21 @@ const Gallery = () => {
                         <img className='sm:w-full' alt="img1" src="https://i.ibb.co/mbfZPKy/1000-F-383918518-XWHxca-FVhzg37t1k-N3-Ro11f6-ME5-XC5-DZ.jpg" />
                     </a>
                     <a href="img/img1.jpg">
-                        <img className='sm:w-full' alt="img1" src="https://i.ibb.co/mbfZPKy/1000-F-383918518-XWHxca-FVhzg37t1k-N3-Ro11f6-ME5-XC5-DZ.jpg" />
+                        <img className='sm:w-full' alt="img1" src="https://i.ibb.co/Chr1wDN/Screenshot-230.png" />
                     </a>
                     <a href="img/img1.jpg">
-                        <img className='sm:w-full' alt="img1" src="https://i.ibb.co/mbfZPKy/1000-F-383918518-XWHxca-FVhzg37t1k-N3-Ro11f6-ME5-XC5-DZ.jpg" />
+                        <img className='sm:w-full' alt="img1" src="https://i.ibb.co/rpQRrKk/Screenshot-231.png" />
                     </a>
                     <div className="grid grid-cols-1 lg:col-span-2">
                         <a href="img/img1.jpg">
-                            <img className='' alt="img1" src="https://i.ibb.co/mbfZPKy/1000-F-383918518-XWHxca-FVhzg37t1k-N3-Ro11f6-ME5-XC5-DZ.jpg" />
+                            <img className='' alt="img1" src="https://i.ibb.co/hsQmYDc/Screenshot-232.png" />
                         </a>
                      
                     </div>
                     <a href="img/img1.jpg">
-                        <img className='' alt="img1" src="https://i.ibb.co/mbfZPKy/1000-F-383918518-XWHxca-FVhzg37t1k-N3-Ro11f6-ME5-XC5-DZ.jpg" />
+                        <img className='' alt="img1" src="https://i.ibb.co/gdkZcqS/Screenshot-233.png" />
                     </a>
-                    <a href="img/img1.jpg">
-                        <img className='' alt="img1" src="https://i.ibb.co/mbfZPKy/1000-F-383918518-XWHxca-FVhzg37t1k-N3-Ro11f6-ME5-XC5-DZ.jpg" />
-                    </a>
-                    <a href="img/img1.jpg">
-                        <img className='' alt="img1" src="https://i.ibb.co/mbfZPKy/1000-F-383918518-XWHxca-FVhzg37t1k-N3-Ro11f6-ME5-XC5-DZ.jpg" />
-                    </a>
+                 
                 </div>
 
 

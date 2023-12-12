@@ -6,7 +6,7 @@ const AboutMe = () => {
         FileSaver.saveAs(resumePath, 'sabbir_ahmad_resume.pdf')
     }
     return (
-        <div className="lg:my-10">
+        <div className="lg:mb-10">
 
             <div className="hero h-[600px] ">
                 <div>
